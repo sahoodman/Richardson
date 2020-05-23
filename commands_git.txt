@@ -1,0 +1,15 @@
+>>git --version
+>>git init
+>>git status
+>>git add filename
+>>git commit filename
+>>git commit -m "Initial commit"
+
+>>git config --global user.name "Jai Jai"
+>>git config --global user.email ""
+>>git config --list
+
+>>clear
+
+>>git help 
+>>git help commit
